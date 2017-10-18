@@ -1,0 +1,16 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Langbehn <langbehn.phil@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "hash.js": "1.1.3",
+    "immutable": "3.8.2",
+    "random-js": "1.0.8"
+  }
+}
